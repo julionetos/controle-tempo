@@ -11,7 +11,7 @@ const firebaseConfig = {
   authDomain:        "controle-de-tarefas-d6ea6.firebaseapp.com",
   projectId:         "controle-de-tarefas-d6ea6",
   storageBucket:     "controle-de-tarefas-d6ea6.firebasestorage.app",
-  messagingSenderId: "71347896162"",
+  messagingSenderId: "71347896162",
   appId:             "1:71347896162:web:3b5e18d0443638376fb63b",
 }
 
